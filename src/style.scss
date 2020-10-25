@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+ul li:before {
+  content: '-  ';
+}
+
+.media-col img {
+  width: 60px !important;
+  height: 60px !important;
+}
+
+.media-col .gatsby-resp-image-background-image {
+  display: none !important;
+}
+
+a, a:link, a:visited {
+  color: #3182ce;
+}
