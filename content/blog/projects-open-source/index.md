@@ -12,7 +12,7 @@ order: 4
   </div>  
 </div>
 
-I am the creator of **dishmi**, an e-Menu application which provides an easy way to create an electronic menu for a restaurant, cafe or bar to improve customer experience. The app is built with Gatsby, React and TailwindCSS and supports multiple features such as mtultimedia content, tagging and categorization and is designed to be fully responsive on all platforms.
+I am the creator of **dishmi**, an e-Menu application which provides an easy way to create an electronic menu for a restaurant, cafe or bar to improve customer experience. The app is built with Gatsby, React and TailwindCSS and supports multiple features such as multimedia content, tagging and categorization and is designed to be fully responsive on all platforms.
 
 <div class="flex mt-12">
   <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./boardeaux.png" /></div>
