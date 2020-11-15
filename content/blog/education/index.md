@@ -52,6 +52,8 @@ I have partially completed freeCodeCamp's full-stack certification, earning 3 of
 I have completed the following [Elastic Training](https://www.elastic.co/training/) courses:
 - [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals)
 - [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals)
+- [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals)
+- [Introduction to Observability: Logging](https://www.elastic.co/training/introduction-to-observability---logging)
 
 <div class="flex mt-12">
   <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./CognitiveClass.png" /></div>
