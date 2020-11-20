@@ -70,6 +70,7 @@ I have completed several courses on [CognitiveClass.ai](https://cognitiveclass.a
 - [Data Science Hands-On with Open Source Tools](https://courses.cognitiveclass.ai/certificates/72cb65a6f23d439cb39dfae57189b9f4)
 - [Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/f78d1a1c0a54475390839a1a81e9af7f)
 - [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/be06a63efee642b1abbf33cabb8510cb)
+- [Data Visualization with Python](https://courses.cognitiveclass.ai/certificates/530d9968a54c4a278808c7cf56872c3b)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4811b57529ea4b40874d7335cfef4ee5)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/9bb8a12dc1c747db9b7a837abbcf44a2)
 
