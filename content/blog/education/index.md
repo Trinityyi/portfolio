@@ -26,6 +26,25 @@ I studied Intelligent Technologies for Human-Computer Interaction, learning more
 I studied various core concepts of programming and computer science, such as algorithms, database, programming languages and artificial intelligence, while my focus was Software Technologies & Intelligent Systems. During this time, I learnt to code in C++, Java, C#, HTML, JavaScript and SQL, developing various projects and applications, oftentimes integrating SQL databases. For my thesis, I developed a Tourist Guide of Piraeus in the form of an Android application.
 
 <div class="flex mt-12">
+  <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./microsoft.png" /></div>
+  <div>
+  <h3 class="text-2xl">DevOps: Fundamentals</h3>
+  <small class="text-xs block text-gray-700">Mircosoft</small>
+  <small class="text-xs block text-gray-700 mb-4">2021</small>
+  </div>  
+</div>
+
+I have completed a 4-day closed workshop, taught by Chintan Doshi, covering the following topics:
+
+- Agile at Scale using Azure DevOps Services
+- Source Control Management using Git
+- Test-Driven Development (TDD) & Shift-Left Testing
+- Feature Flag Development with LaunchDarkly
+- Continuous Integration with Azure Container Registry
+- Continuous Delivery Pipeline Development
+- Application Monitoring with Application Insights
+
+<div class="flex mt-12">
   <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./code_camp.jpg" /></div>
   <div>
   <h3 class="text-2xl">freeCodeCamp Courses</h3>
