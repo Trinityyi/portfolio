@@ -4,6 +4,17 @@ order: 4
 ---
 
 <div class="flex mt-4">
+  <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./dog.png" /></div>
+  <div>
+  <h3 class="text-2xl"><a href="https://canmydogeat.netlify.app/" target="_blank">Can My Dog Eat</a></h3>
+  <small class="text-xs block text-gray-700">JavaScript, React, TailwindCSS</small>
+  <small class="text-xs block text-gray-700 mb-4">Apr, 2021 - Present</small>
+  </div>  
+</div>
+
+I am the creator of **Can My Dog Eat**, a simple website where you can look up information for over 100 types of food in regards to feeding them to your dog. Most common food types are included along with a breakdown of what, why and how to feed them to your dog. The app is built with React and TailwindCSS and is designed to be fully responsive on all platforms.
+
+<div class="flex mt-4">
   <div class="w-20 flex-grow-0 flex-shrink-0 media-col pt-2"><img src="./dishmi.png" /></div>
   <div>
   <h3 class="text-2xl"><a href="https://github.com/Trinityyi/dishmi" target="_blank">dishmi</a></h3>
