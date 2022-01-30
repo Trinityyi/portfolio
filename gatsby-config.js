@@ -3,10 +3,10 @@ module.exports = {
     title: `Isabelle Viktoria Maciohsek - Portfolio`,
     author: {
       name: `Isabelle Viktoria Maciohsek`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Athens building useful things.`,
       location: `Athens, Greece`,
       social: {
-        email: `mailto:imaciohsek@gmail.com`,
+        email: `mailto:ivmaciohsek@gmail.com`,
         github: `https://github.com/Trinityyi`,
         linkedin: `https://www.linkedin.com/in/isabelle-viktoria-maciohsek-aa6bb1129/`
       }
